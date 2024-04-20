@@ -1,0 +1,6 @@
+export ZONE=SUA ZONA AQUI
+
+curl -LO https://raw.githubusercontent.com/RaiBarbosa/GSP100-SENAI/main/GSP100SENAI.sh
+sudo chmod +x GSP100SENAI.sh
+
+./GSP100SENAI.sh
